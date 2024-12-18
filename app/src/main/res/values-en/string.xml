@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evaluation-18-12-2024</string>
+    <string name="character_name">Name</string>
+    <string name="character_status">Status</string>
+    <string name="character_species">Species</string>
+    <string name="character_not_found">Character not found</string>
+    <string name="change_theme">Change theme</string>
+</resources>
